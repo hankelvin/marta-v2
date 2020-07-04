@@ -122,7 +122,4 @@ Python 3.6
 2. ensure a_preprocessor.py can and process read CDTB information (and FDTB's xml info converted from xml)
 3. adjust the settings for the French and Chinese parser/converters 
 4. implement Malt parser for Chinese (to get Auto PTB-style parses)
-# MarTa-v2
-# MarTa-v2
-# MarTa-v2
-# marta-v2
+
