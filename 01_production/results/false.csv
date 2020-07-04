@@ -1,0 +1,7 @@
+DocID, SentID, RawText, CharStartInDoc, CharEndInDoc, 
+test1, 0, since, 0, 4, 
+test1, 2, if, 166, 167, 
+test2, 0, when, 19, 22, 
+test2, 0, but, 107, 109, 
+test2, 0, and, 115, 117, 
+untitled, 1, afterwards, 50, 59, 

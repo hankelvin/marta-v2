@@ -1,0 +1,6 @@
+DocID, SentID, RawText, CharStartInDoc, CharEndInDoc, 
+test1, 1, because, 77, 82, 
+test1, 1, for, 99, 101, 
+test2, 0, partly because, 0, 12, 
+test2, 0, because, 7, 12, 
+untitled, 1, but, 90, 92, 

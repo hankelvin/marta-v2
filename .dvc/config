@@ -1,0 +1,5 @@
+
+['remote "marta-v2-awss3"']
+url = s3://marta-v2/dvc
+[core]
+remote = marta-v2-awss3

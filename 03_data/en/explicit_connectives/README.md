@@ -1,0 +1,3 @@
+These pickle files contain the Connective objects produced by running preprocessor.py.
+- connectives_ngtvexamples.pickle contains an iterable, whose every element is an instance of a **negative** example found for a gold connective in the PDTB dataset (sections 2 to 22),
+- connectives_pstvexamples.pickle contains an iterable, whose every element is an instance of a **positive** example found for a gold connective in the PDTB dataset (sections 2 to 22),
