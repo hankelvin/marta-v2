@@ -1,7 +1,0 @@
-CPOS_NextPOS
-C_Next
-NextPOS
-PrevC
-PrevPOS
-PrevPOS_CPOS
-SELF

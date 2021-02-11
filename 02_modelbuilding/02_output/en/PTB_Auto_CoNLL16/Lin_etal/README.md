@@ -1,9 +1,0 @@
-CPOS
-CPOS_NextPOS
-C_Next
-CompPath
-FullPath
-NextPOS
-PrevC
-PrevPOS
-PrevPOS_CPOS

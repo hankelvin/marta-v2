@@ -1,4 +1,0 @@
-LEFTSib
-PRNT
-RGHTSib
-SELF
